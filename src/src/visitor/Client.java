@@ -1,6 +1,5 @@
 package visitor;
 
-import visitor.model.Product;
 import visitor.model.impl.Candy;
 import visitor.model.impl.Fruit;
 import visitor.model.impl.Wine;
