@@ -1,7 +1,5 @@
 package mediator.model;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Objects;
 
 public class User {
